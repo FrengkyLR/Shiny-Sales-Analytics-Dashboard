@@ -1,0 +1,13 @@
+name: sales_analytics_dashboard
+title: sales_analytics_dashboard
+username:
+account: frengkylr
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 6270928
+bundleId: 5892994
+url: https://frengkylr.shinyapps.io/sales_analytics_dashboard/
+when: 1652225310.65062
+lastSyncTime: 1652225310.65062
+asMultiple: FALSE
+asStatic: FALSE
